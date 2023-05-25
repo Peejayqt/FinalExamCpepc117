@@ -1,0 +1,119 @@
+
+{
+    "recipes": [
+        {
+            "id": "rec1",
+            "dishImage": "assets/food_pics/manok.jpg",
+            "title": "Chicken (₱240 | 1kg)",
+            "duration": "",
+            "source": "https://pixabay.com/photos/salmon-dish-food-meal-fish-518032/",
+            "information": [
+                "Course: Main Course",
+                "Price: Medium",
+                "Cuisine: Thai",
+                "Skill Level: Amateur",
+                "Prep Time 10 minutes"
+            ]
+            
+        },
+        {
+            "id": "rec2",
+            "dishImage": "assets/food_pics/babs.jpg",
+            "title": "Pork (₱260 | 1kg)",
+            "duration": "",
+            "source": "https://pixabay.com/photos/cupcakes-dessert-frosting-food-690040/",
+            "information": [
+                "Course: Main Course",
+                "Price: Medium",
+                "Cuisine: Thai",
+                "Skill Level: Amateur",
+                "Prep Time 10 minutes"
+            ]
+        },
+        {
+            "id": "rec3",
+            "dishImage": "assets/food_pics/baka.jpg",
+            "title": "Beef (₱280 | 1kg)",
+            "duration": "",
+            "source": "https://pixabay.com/photos/pancakes-maple-syrup-sweet-food-2291908/",
+            "information": [
+                "Course: Main Course",
+                "Price: Medium",
+                "Cuisine: Thai",
+                "Skill Level: Amateur",
+                "Prep Time 10 minutes"
+            ]
+        },
+        {
+            "id": "rec4",
+            "dishImage": "assets/food_pics/sefod.png",
+            "title": "Seafoods (₱220 - 280 | 1kg)",
+            "duration": "",
+            "source": "https://pixabay.com/photos/spaghetti-drunken-line-food-pasta-960978/",
+            "information": [
+                "Course: Main Course",
+                "Price: Medium",
+                "Cuisine: Thai",
+                "Skill Level: Amateur",
+                "Prep Time 10 minutes"
+            ]
+        },
+        {
+            "id": "rec5",
+            "dishImage": "assets/food_pics/2.jpg",
+            "title": "Fruits (₱80 - 140 | 1kg)",
+            "duration": "",
+            "source": "https://pixabay.com/photos/fried-rice-thai-food-thai-cuisine-3023040/",
+            "information": [
+                "Course: Main Course",
+                "Price: Medium",
+                "Cuisine: Thai",
+                "Skill Level: Amateur",
+                "Prep Time 10 minutes"
+            ]
+            
+        },
+        {
+            "id": "rec6",
+            "dishImage": "assets/food_pics/1.jpg",
+            "title": "Vegetables (₱50 - 120 | 500g)",
+            "duration": "",
+            "source": "https://pixabay.com/photos/green-curry-thai-food-3604721/",
+            "information": [
+                "Course: Main Course",
+                "Price: Medium",
+                "Cuisine: Thai",
+                "Skill Level: Amateur",
+                "Prep Time 10 minutes"
+            ]
+        },
+        {
+            "id": "rec7",
+            "dishImage": "assets/food_pics/5.jpg",
+            "title": "Herbs & Spices (₱10 - 100 | 100g)",
+            "duration": "",
+            "source": "https://pixabay.com/photos/soup-pho-soup-vietnam-vietnamese-5250765/",
+            "information": [
+                "Course: Main Course",
+                "Price: Medium",
+                "Cuisine: Thai",
+                "Skill Level: Amateur",
+                "Prep Time 10 minutes"
+            ]
+        },
+        {
+            "id": "rec8",
+            "dishImage": "assets/food_pics/Eggs.jpg",
+            "title": "Eggs (₱260 - 300 | Small To Large Tray)",
+            "duration": "",
+            "source": "https://pixabay.com/photos/burger-fast-food-hamburger-731298/",
+            "information": [
+                "Course: Main Course",
+                "Price: Medium",
+                "Cuisine: Thai",
+                "Skill Level: Amateur",
+                "Prep Time 10 minutes"
+            ]
+        }
+    ]
+}

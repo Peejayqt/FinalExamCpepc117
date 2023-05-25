@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "CORPUZ_Activity-4-2-Exploring-Router-API-main",
+            "cwd": "CORPUZ_Activity-4-2-Exploring-Router-API-main",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "CORPUZ_Activity-4-2-Exploring-Router-API-main (profile mode)",
+            "cwd": "CORPUZ_Activity-4-2-Exploring-Router-API-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "CORPUZ_Activity-4-2-Exploring-Router-API-main (release mode)",
+            "cwd": "CORPUZ_Activity-4-2-Exploring-Router-API-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

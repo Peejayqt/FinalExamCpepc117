@@ -1,0 +1,67 @@
+{
+    "feed": [
+        {
+            "id": "1",
+            "profileImageUrl": "assets/profile_pics/person_cesare.jpeg",
+            "comment": "The vegies are really fresh & of good quality. You really deserve a repeat order!",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "10"
+        },
+        {
+            "id": "2",
+            "profileImageUrl": "assets/profile_pics/person_stef.jpeg",
+            "comment": "Very good ang service nila. 😊 Delivery usually takes about 2 days, which is worth it given kung gaano ka fresh ang kanilang mga producto. Support local farmers. 🥦🥒🌽🥕",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "80"
+        },
+        {
+            "id": "3",
+            "profileImageUrl": "assets/profile_pics/person_crispy.png",
+            "comment": "Fresh vegetables and on time mag deliver. Very professional 👍🏻",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "20"
+        },
+        {
+            "id": "4",
+            "profileImageUrl": "assets/profile_pics/person_joe.jpeg",
+            "comment": "Quick reply quick delivery and importantly fresh vegetables and fruits...",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "30"
+        },
+        {
+            "id": "5",
+            "profileImageUrl": "assets/profile_pics/person_katz.jpeg",
+            "comment": "I seldom write a review, but this Farm to Doorstep really give a great experience for me to buy vegetables and fruits online. Honestly, the vegetables and fruits are more fresh than I bought from supermarket. I feel great that I found this shop. Highly recommended. I will continue support, thanks.",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "40"
+        },
+        {
+            "id": "6",
+            "profileImageUrl": "assets/profile_pics/person_kevin.jpeg",
+            "comment": "Cooking up some steak 🥩 today, state should be rare, medium or medium well?",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "50"
+        },
+        {
+            "id": "7",
+            "profileImageUrl": "assets/profile_pics/person_sandra.jpeg",
+            "comment": "Easy as 123! Just go to the website and choose your order. Fresh veggies delivered at your door. Satisfied customer here.😊",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "50"
+        },
+        {
+            "id": "8",
+            "profileImageUrl": "assets/profile_pics/person_manda.png",
+            "comment": "very accomodating staffs and fast delivery...",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "60"
+        },
+        {
+            "id": "9",
+            "profileImageUrl": "assets/profile_pics/person_ray.jpeg",
+            "comment": "Farm to Doorstep Koronadal was incredibly efficient with delivery and the products were incredible! I enjoyed fresh chicken breasts at a reasonable price and the vegetables were all large sizes and incredibly fresh. I will most definitely be using them again. Thank you.",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "70"
+        }
+    ]
+}
